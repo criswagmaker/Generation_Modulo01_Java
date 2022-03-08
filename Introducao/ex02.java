@@ -11,7 +11,6 @@ public class ex02 {
 		int anos, meses, dias, total;
 
 		System.out.print("Digite quantos dias você já viveu: ");
-
 		total = sc.nextInt();
 
 		anos = total / 365;
